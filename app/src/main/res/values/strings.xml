@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rest2.0</string>
+    <string name="xenia">XENIA</string>
+    <string name="desserts">DESSERTS</string>
+    <string name="salads">SALADS</string>
+    <string name="main_dishes">MAIN DISHES</string>
+    <string name="menu">MENU</string>
+</resources>
